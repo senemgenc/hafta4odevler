@@ -1,0 +1,69 @@
+create table employee (
+    id INT,
+    name VARCHAR(100),
+    birthday DATE,
+    email VARCHAR(100)
+);
+
+
+insert into employee (id, name, birthday, email) values (1, 'Renard', '25.12.2022', 'rscurrah0@pinterest.com');
+insert into employee (id, name, birthday, email) values (2, 'Letta', '27.08.2023', 'lferrick1@theglobeandmail.com');
+insert into employee (id, name, birthday, email) values (3, 'Laina', '07.05.2023', 'lbraiden2@reuters.com');
+insert into employee (id, name, birthday, email) values (4, 'Boothe', '24.01.2023', 'bkisby3@rakuten.co.jp');
+insert into employee (id, name, birthday, email) values (5, 'Angel', '07.10.2022', 'afrancescuzzi4@vkontakte.ru');
+insert into employee (id, name, birthday, email) values (6, 'Ivory', '10.01.2023', 'izottoli5@hugedomains.com');
+insert into employee (id, name, birthday, email) values (7, 'Mariann', '09.04.2023', 'mmerwood6@eventbrite.com');
+insert into employee (id, name, birthday, email) values (8, 'Illa', '27.10.2022', 'iinch7@arizona.edu');
+insert into employee (id, name, birthday, email) values (9, 'Sanderson', '24.03.2023', 'storrisi8@edublogs.org');
+insert into employee (id, name, birthday, email) values (10, 'Myranda', '25.12.2022', 'mmathy9@alibaba.com');
+insert into employee (id, name, birthday, email) values (11, 'Thoma', '21.03.2023', 'tsussemsa@shop-pro.jp');
+insert into employee (id, name, birthday, email) values (12, 'Agnese', '17.12.2022', 'ahellsdonb@usda.gov');
+insert into employee (id, name, birthday, email) values (13, 'Woodrow', '23.10.2022', 'wmathewsonc@wunderground.com');
+insert into employee (id, name, birthday, email) values (14, 'Walden', '03.03.2023', 'wslingerd@ifeng.com');
+insert into employee (id, name, birthday, email) values (15, 'Hirsch', '04.08.2023', 'hmaclachlane@bloglovin.com');
+insert into employee (id, name, birthday, email) values (16, 'Domenic', '23.09.2023', 'dtowlsonf@cafepress.com');
+insert into employee (id, name, birthday, email) values (17, 'Alaster', '25.10.2022', 'aspellissyg@dailymotion.com');
+insert into employee (id, name, birthday, email) values (18, 'Valentine', '01.01.2023', 'vberingerh@springer.com');
+insert into employee (id, name, birthday, email) values (19, 'Faith', '07.06.2023', 'fstudarti@nymag.com');
+insert into employee (id, name, birthday, email) values (20, 'Dario', '20.05.2023', 'dblackahj@mit.edu');
+insert into employee (id, name, birthday, email) values (21, 'Cyndie', '09.09.2023', 'cpulmank@smh.com.au');
+insert into employee (id, name, birthday, email) values (22, 'Almeria', '07.07.2023', 'abeacoml@house.gov');
+insert into employee (id, name, birthday, email) values (23, 'Janey', '04.01.2023', 'jjessem@mediafire.com');
+insert into employee (id, name, birthday, email) values (24, 'Pete', '15.07.2023', 'pbeddown@hc360.com');
+insert into employee (id, name, birthday, email) values (25, 'Reuben', '30.01.2023', 'rgranhamo@furl.net');
+insert into employee (id, name, birthday, email) values (26, 'Gavrielle', '02.05.2023', 'gvirrp@163.com');
+insert into employee (id, name, birthday, email) values (27, 'Dacey', '07.12.2022', 'dsageq@skyrock.com');
+insert into employee (id, name, birthday, email) values (28, 'Hillary', '19.10.2022', 'hplanr@yellowbook.com');
+insert into employee (id, name, birthday, email) values (29, 'Kristyn', '02.02.2023', 'keagles@examiner.com');
+insert into employee (id, name, birthday, email) values (30, 'Winnifred', '05.11.2022', 'wmassont@aboutads.info');
+insert into employee (id, name, birthday, email) values (31, 'Haven', '09.11.2022', 'hreddanu@pagesperso-orange.fr');
+insert into employee (id, name, birthday, email) values (32, 'Guglielma', '09.12.2022', 'gmargaritelliv@virginia.edu');
+insert into employee (id, name, birthday, email) values (33, 'Kissie', '06.05.2023', 'ktwiggsw@sciencedirect.com');
+insert into employee (id, name, birthday, email) values (34, 'Lawrence', '15.08.2023', 'lmcgaffeyx@blog.com');
+insert into employee (id, name, birthday, email) values (35, 'Derick', '04.02.2023', 'dtyzacky@dailymail.co.uk');
+insert into employee (id, name, birthday, email) values (36, 'Kristine', '16.08.2023', 'kballardz@admin.ch');
+insert into employee (id, name, birthday, email) values (37, 'Timothy', '05.02.2023', 'tdaykin10@ning.com');
+insert into employee (id, name, birthday, email) values (38, 'Darrel', '05.10.2022', 'dwiggam11@chron.com');
+insert into employee (id, name, birthday, email) values (39, 'Ruth', '20.09.2023', 'rgreggs12@behance.net');
+insert into employee (id, name, birthday, email) values (40, 'Bernard', '20.09.2023', 'bpleavin13@nationalgeographic.com');
+insert into employee (id, name, birthday, email) values (41, 'Stanton', '28.01.2023', 'sdalesco14@twitpic.com');
+insert into employee (id, name, birthday, email) values (42, 'Britteny', '12.04.2023', 'bridpath15@europa.eu');
+insert into employee (id, name, birthday, email) values (43, 'Ashlan', '20.12.2022', 'abaulcombe16@admin.ch');
+insert into employee (id, name, birthday, email) values (44, 'Adrien', '30.09.2023', 'astolworthy17@fastcompany.com');
+insert into employee (id, name, birthday, email) values (45, 'Shawna', '09.07.2023', 'smacnally18@chron.com');
+insert into employee (id, name, birthday, email) values (46, 'Lee', '20.10.2022', 'ledkins19@webmd.com');
+insert into employee (id, name, birthday, email) values (47, 'Joelle', '18.08.2023', 'jbrimilcombe1a@unc.edu');
+insert into employee (id, name, birthday, email) values (48, 'Geralda', '02.03.2023', 'gfilpi1b@samsung.com');
+insert into employee (id, name, birthday, email) values (49, 'Donielle', '14.02.2023', 'dtreadway1c@spiegel.de');
+insert into employee (id, name, birthday, email) values (50, 'Lacey', '05.10.2022', 'lgoodboddy1d@nationalgeographic.com');
+
+
+UPDATE employee SET email = 'lgoodboddy1d@nationalgeographic.com' WHERE id = 11;
+UPDATE employee SET name = 'Senem' WHERE id = 12;
+UPDATE employee SET birthday = '1982-12-05' WHERE id = 13;
+
+
+DELETE FROM employee WHERE id = 1;
+DELETE FROM employee WHERE name = 'Renard';
+DELETE FROM employee WHERE birthday = '14.02.2023';
+DELETE FROM employee WHERE email = lgoodboddy1d@nationalgeographic.com';
